@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@kevinfaguiar/vue-twemoji-picker": "^5.2.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "element-ui": "^2.13.0",
     "jquery": "^3.4.1",
     "qs": "^6.9.1",
